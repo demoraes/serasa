@@ -2,7 +2,7 @@ import { theme, DefaultTheme } from '@chakra-ui/core';
 
 const customTheme: DefaultTheme = {
   ...theme,
-  breakpoints: ["30px", "48px", "62px", "80px"],
+  breakpoints: ["400px", "48px", "62px", "80px"],
   fonts: {
     body: 'Roboto, system-ui, sans-serif',
     heading: 'Roboto, system-ui, sans-serif',
